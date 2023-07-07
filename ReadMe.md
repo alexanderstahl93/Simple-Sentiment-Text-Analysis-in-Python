@@ -1,3 +1,4 @@
+# Simple Sentiment Analysis for URL & local text files
 This repository contains Python scripts for performing sentiment analysis on text using the TextBlob library. The code includes two different examples:
 
 1. mainURL.py
